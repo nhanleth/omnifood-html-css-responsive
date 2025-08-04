@@ -1,5 +1,3 @@
-![Omnifood](https://github.com/user-attachments/assets/2b258f53-2efc-42e6-9f91-08ffab134962)
-
 # Omnifood Responsive Landing Page
 
 Dự án này là một trang landing page quảng bá dịch vụ giao đồ ăn Omnifood.
@@ -18,3 +16,5 @@ Dự án này là một trang landing page quảng bá dịch vụ giao đồ ă
 ## Cách sử dụng
 
 Mở file `index.html` để xem giao diện demo trên trình duyệt.
+
+![Omnifood](https://github.com/user-attachments/assets/2b258f53-2efc-42e6-9f91-08ffab134962)
